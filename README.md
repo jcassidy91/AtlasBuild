@@ -5,6 +5,7 @@ Collect the three stars. If you get to the big ugly tree, you went too far
 Z - Jump\
 X - Broom\
 C - Attack
+S - Change Color Set
 
 Left/Right - Move\
 Down - Crouch\
@@ -18,6 +19,7 @@ Up - Enter Door
 ### Mechanics:
 - Standing attack string (C -> C -> C)
 - uptilt/crouch attack (C+Up / C+Down)
+  - crouch attack has no hitbox yet
 - arial attacks (C / C+Direction in air)
 - crawl (Crouch + Left/Right)
 
