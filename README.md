@@ -17,6 +17,7 @@ Up - Enter Door
 - Standing attack string (C -> C -> C)
 - uptilt/crouch attack (C+Up / C+Down)
 - arial attacks (C / C+Direction in air)
+- crawl (Crouch + Left/Right)
 
 **Drop through platforms**: Z while crouching\
 **Fast-fall**: down while airborne
