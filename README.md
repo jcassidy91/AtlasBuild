@@ -18,21 +18,21 @@ Up - Enter Door
 - uptilt/crouch attack (C+Up / C+Down)
 - arial attacks (C / C+Direction in air)
 
-drop through platforms: Z while crouching
-fast fall: down while airborne
+Drop through platforms: Z while crouching\
+Fast-fall: down while airborne\
 
-Double Jump (Z -> Z)
-Wall Jump (Press against wall in mid-air + Z)
+Double-Jump (Z -> Z)\
+Wall-Jump (Press against wall in mid-air + Z)\
 
-Cancel Broom: X or C while on broom
-Jump off broom: Z while on broom
+Cancel Broom: X or C while on broom\
+Jump off broom: Z while on broom\
 
-###Berries:
+### Berries:
 Berries "pop" when hit by an attack or when bumped into while riding your broom.
 
--Bounce Berries force Atlas to jump even if she's in mid air- does not count as double jumping
--Woosh Berries force Atlas on her broom even if she's already used it. This does count as using your broom.
--Bomb Berries can blow up rocks and are affected by other berries:
+- **Bounce Berries** force Atlas to jump even if she's in mid air- does not count as double jumping
+- **Woosh Berries** force Atlas on her broom even if she's already used it. This does count as using your broom.
+- **Bomb Berries** can blow up rocks and are affected by other berries:
   -Bombs bounce off bounce berries.
   -Bombs are given wings and will fly forward on collision with woosh berries.
   -Bomb berries can be picked by the player when collided against while on broom. Berries can be dropped by canceling the broom.
