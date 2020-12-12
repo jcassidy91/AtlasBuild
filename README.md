@@ -9,7 +9,7 @@ Down - Crouch\
 Up - Enter Door
 
 ### Speed Run:
-- Press Space to reset.
+- **Press Space to reset.**
 - Timer ends when all gems and the star are collected.
 - Current Record is 42.7 seconds
 
@@ -18,14 +18,14 @@ Up - Enter Door
 - uptilt/crouch attack (C+Up / C+Down)
 - arial attacks (C / C+Direction in air)
 
-Drop through platforms: Z while crouching\
-Fast-fall: down while airborne
+**Drop through platforms**: Z while crouching\
+**Fast-fall**: down while airborne
 
-Double-Jump (Z -> Z)\
-Wall-Jump (Press against wall in mid-air + Z)
+**Double-Jump**: (Z -> Z)\
+**Wall-Jump**: (Press against wall in mid-air + Z)
 
-Cancel Broom: X or C while on broom\
-Jump off broom: Z while on broom
+**Cancel Broom**: X or C while on broom\
+**Jump off broom**: Z while on broom
 
 ### Berries:
 Berries "pop" when hit by an attack or when bumped into while riding your broom.
