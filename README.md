@@ -1,4 +1,4 @@
-###Controls:
+### Controls:
 
 Z - Jump
 X - Broom
@@ -8,15 +8,15 @@ Left/Right - Move
 Down - Crouch
 Up - Enter Door
 
-###Speed Run:
- Press Space to reset.
- Timer ends when all gems and the star are collected.
- Current Record is 42.7 seconds
+### Speed Run:
+- Press Space to reset.
+- Timer ends when all gems and the star are collected.
+- Current Record is 42.7 seconds
 
-###Mechanics:
-Standing attack string (C -> C -> C)
-uptilt/crouch attack (C+Up / C+Down)
-arial attacks (C / C+Direction in air)
+### Mechanics:
+- Standing attack string (C -> C -> C)
+- uptilt/crouch attack (C+Up / C+Down)
+- arial attacks (C / C+Direction in air)
 
 drop through platforms: Z while crouching
 fast fall: down while airborne
