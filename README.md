@@ -4,8 +4,8 @@ Collect the three stars. If you get to the big ugly tree, you went too far
 
 Z - Jump\
 X - Broom\
-C - Attack
-S - Change Color Set
+C - Attack\
+S+Direction - Change Color Set
 
 Left/Right - Move\
 Down - Crouch\
