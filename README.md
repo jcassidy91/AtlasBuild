@@ -1,3 +1,5 @@
+Collect the three stars. If you get to the big ugly tree, you went too far
+
 ### Controls:
 
 Z - Jump\
