@@ -1,11 +1,11 @@
 ### Controls:
 
-Z - Jump
-X - Broom
+Z - Jump\
+X - Broom\
 C - Attack
 
-Left/Right - Move
-Down - Crouch
+Left/Right - Move\
+Down - Crouch\
 Up - Enter Door
 
 ### Speed Run:
@@ -19,13 +19,13 @@ Up - Enter Door
 - arial attacks (C / C+Direction in air)
 
 Drop through platforms: Z while crouching\
-Fast-fall: down while airborne\
+Fast-fall: down while airborne
 
 Double-Jump (Z -> Z)\
-Wall-Jump (Press against wall in mid-air + Z)\
+Wall-Jump (Press against wall in mid-air + Z)
 
 Cancel Broom: X or C while on broom\
-Jump off broom: Z while on broom\
+Jump off broom: Z while on broom
 
 ### Berries:
 Berries "pop" when hit by an attack or when bumped into while riding your broom.
