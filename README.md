@@ -4,8 +4,13 @@ Collect the star at the top of the gardens. You'll need to rejuvenate two differ
 
 Z - Jump\
 X - Broom\
+
+![Screenshot](images/attack.png)\
 C - Attack\
+
+
 S+Direction - Change Color Set
+![Screenshot](images/outfits.png)\
 
 Left/Right - Move\
 Down - Crouch\
@@ -24,7 +29,10 @@ Up - Enter Door, Lift Berry/Seed, Throw held object
 - crawl (Crouch + Left/Right)
 
 **Drop through platforms**: Z while crouching\
-**Fast-fall**: down while airborne
+**Fast-fall**: down while airborne\
+
+**Cancel Broom**: X or C while on broom\
+**Jump off broom**: Z while on broom
 
 ### Throwing Objects
 ![Screenshot](images/throwExample.png)\
@@ -37,9 +45,7 @@ Eventually in the game you will be able to unlock more abilities. Unlock them im
 
 **Double-Jump**: (Z -> Z)\
 **Wall-Jump**: (Press against wall in mid-air + Z)
-
-**Cancel Broom**: X or C while on broom\
-**Jump off broom**: Z while on broom
+![Screenshot](images/walljump.png)\
 
 ## Berries:
 Berries "pop" when hit by an attack or when bumped into while riding your broom.
@@ -50,4 +56,5 @@ Berries "pop" when hit by an attack or when bumped into while riding your broom.
    - Bombs bounce off bounce berries.
    - Bombs are given wings and will fly forward on collision with woosh berries.
    - Bomb berries can be picked by the player when collided against while on broom. Berries can be dropped by canceling the broom.
+![Screenshot](images/bombberry.png)\
   
