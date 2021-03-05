@@ -26,10 +26,10 @@ Up - Enter Door, Lift Berry/Seed, Throw held object
 **Drop through platforms**: Z while crouching\
 **Fast-fall**: down while airborne
 
-**Throwing Objects**
-![Screenshot](images/throwExample.png)
-Press Up while contacting a berry or a seed.
-Press Up or Z to throw the object
+**Throwing Objects**\
+![Screenshot](images/throwExample.png)\
+Press Up while contacting a berry or a seed.\
+Press Up or Z to throw the object.\
 
 **Double-Jump**: (Z -> Z)\
 **Wall-Jump**: (Press against wall in mid-air + Z)
