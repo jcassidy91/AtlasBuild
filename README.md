@@ -1,4 +1,4 @@
-Collect the three stars. If you get to the big ugly tree, you went too far
+Collect the star at the top of the gardens. You'll need to rejuvenate two different berry types by restoring the water flow to each of their trees hidden in the gardens.
 
 ### Controls:
 
@@ -9,7 +9,7 @@ S+Direction - Change Color Set
 
 Left/Right - Move\
 Down - Crouch\
-Up - Enter Door
+Up - Enter Door, Lift Berry/Seed, Throw held object
 
 ### Speed Run:
 - **Press Space to reset.**
