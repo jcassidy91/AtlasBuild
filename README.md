@@ -11,6 +11,8 @@ Left/Right - Move\
 Down - Crouch\
 Up - Enter Door, Lift Berry/Seed, Throw held object
 
+![Screenshot](images/throwExample.png)
+
 ### Speed Run:
 - **Press Space to reset.**
 - Timer ends when all gems and the star are collected.
