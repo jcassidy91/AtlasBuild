@@ -1,6 +1,6 @@
 Collect the star at the top of the gardens. You'll need to rejuvenate two different berry types by restoring the water flow to each of their trees hidden in the gardens.
 
-### Controls:
+## Controls:
 
 Z - Jump\
 X - Broom\
@@ -11,12 +11,12 @@ Left/Right - Move\
 Down - Crouch\
 Up - Enter Door, Lift Berry/Seed, Throw held object
 
-### Speed Run:
+## Speed Run:
 - **Press Space to reset.**
 - Timer ends when all gems and the star are collected.
 - Current Record is 42.7 seconds
 
-### Mechanics:
+## Mechanics:
 - Standing attack string (C -> C -> C)
 - uptilt/crouch attack (C+Up / C+Down)
   - crouch attack has no hitbox yet
@@ -26,7 +26,7 @@ Up - Enter Door, Lift Berry/Seed, Throw held object
 **Drop through platforms**: Z while crouching\
 **Fast-fall**: down while airborne
 
-**Throwing Objects**\
+### Throwing Objects\
 ![Screenshot](images/throwExample.png)\
 Press Up while contacting a berry or a seed.\
 Press Up or Z to throw the object.\
@@ -37,7 +37,7 @@ Press Up or Z to throw the object.\
 **Cancel Broom**: X or C while on broom\
 **Jump off broom**: Z while on broom
 
-### Berries:
+## Berries:
 Berries "pop" when hit by an attack or when bumped into while riding your broom.
 
 - **Bounce Berries** force Atlas to jump even if she's in mid air- does not count as double jumping
