@@ -9,7 +9,8 @@ X - Broom\
 C - Attack\
 
 
-S+Direction - Change Color Set
+S+Direction - Change Color Set\
+
 ![Screenshot](images/outfits.png)\
 
 Left/Right - Move\
