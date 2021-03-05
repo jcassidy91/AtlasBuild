@@ -26,10 +26,14 @@ Up - Enter Door, Lift Berry/Seed, Throw held object
 **Drop through platforms**: Z while crouching\
 **Fast-fall**: down while airborne
 
-### Throwing Objects\
+### Throwing Objects
 ![Screenshot](images/throwExample.png)\
 Press Up while contacting a berry or a seed.\
 Press Up or Z to throw the object.\
+
+
+### Cheat Mode
+Eventually in the game you will be able to unlock more abilities. Unlock them immediately by rpessing Numpad *\
 
 **Double-Jump**: (Z -> Z)\
 **Wall-Jump**: (Press against wall in mid-air + Z)
