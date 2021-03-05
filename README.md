@@ -3,13 +3,13 @@ Collect the star at the top of the gardens. You'll need to rejuvenate two differ
 ## Controls:
 
 Z - Jump\
-X - Broom\
+X - Broom
 
 ![Screenshot](images/attack.png)\
-C - Attack\
+C - Attack
 
 
-S+Direction - Change Color Set\
+S+Direction - Change Color Set
 
 ![Screenshot](images/outfits.png)\
 
