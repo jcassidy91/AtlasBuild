@@ -43,7 +43,7 @@ Press Up or Z to throw the object.\
 
 
 ### Cheat Mode
-Eventually in the game you will be able to unlock more abilities. Unlock them immediately by rpessing Numpad *\
+Eventually in the game you will be able to unlock more abilities. Unlock them immediately by pressing Numpad *
 
 **Double-Jump**: (Z -> Z)\
 **Wall-Jump**: (Press against wall in mid-air + Z)
