@@ -52,7 +52,7 @@ You can change outfit colors by holding the change-outfit key, selecting with a 
 # General Mechanics
 
 **Drop through platforms**: Press Jump while crouching\
-**Fast-fall**: Down while airborne\
+**Fast-fall**: Down while airborne
 
 **Cancel Broom**: Jump, Broom, or Attack while on broom\
 **Jump off broom**: Jump while on broom (with double jump unlocked)
@@ -64,7 +64,7 @@ You can change outfit colors by holding the change-outfit key, selecting with a 
 ## Throwing Objects
 ![Screenshot](images/throwExample.png)\
 Press Up while contacting a berry or a seed.\
-Press Up or Jump to throw the object.\
+Press Up or Jump to throw the object.
 
 # Berries:
 Berries "pop" when hit by an attack or when bumped into while riding your broom.
