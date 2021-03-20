@@ -3,7 +3,7 @@ Collect the star at the top of the gardens. You'll need to rejuvenate two differ
 # Controls:
 
 ## Keyboard:
-| Input | Name |
+
 | ----- | ----- |
 | Z | Jump |
 | X | Broom |
