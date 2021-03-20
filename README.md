@@ -1,32 +1,32 @@
 Collect the star at the top of the gardens. You'll need to rejuvenate two different berry types by restoring the water flow to each of their trees hidden in the gardens.
 
-## Controls:
+# Controls:
 
-# Keyboard:
+## Keyboard:
 Z - Jump\
 X - Broom\
 C - Attack\
 S + Direction - Change Color Set
 
-# WASDMouse:
+## WASDMouse:
 Space - Jump\
 Shift - Broom\
 Left Click - Attack
 Tab/E + Direction - Change Color Set
 
-# PS4:
+## PS4:
 X - Jump\
 R1/Triangle/Circle - Broom\
 Square - Attack
 L1 + Direction - Change Color Set
 
-# General Controls:
+## General Controls:
 
 Left/Right - Move\
 Down - Crouch\
 Up - Enter Door, Lift Berry/Seed, Throw held object
 
-## Attacking
+# Attacking
 
 ![Screenshot](images/attack.png)\
 
@@ -38,18 +38,18 @@ Up - Enter Door, Lift Berry/Seed, Throw held object
 
 With WASDMouse direction is determined by mouse position relative to Atlas.
 
-## Colorsets:
+# Colorsets:
 
 You can change outfit colors by holding the change-outfit key, selecting with a direction, and letting go of the change key,
 ![Screenshot](images/outfits.png)\
 
 
-## Speed Run:
+# Speed Run:
 - **Press Space to reset.**
 - Timer ends when all gems and the star are collected.
 - Current Record is 42.7 seconds
 
-##General Mechanics
+# General Mechanics
 
 **Drop through platforms**: Press Jump while crouching\
 **Fast-fall**: Down while airborne\
@@ -61,12 +61,12 @@ You can change outfit colors by holding the change-outfit key, selecting with a 
 **Wall-Jump**: (Press against wall in mid-air + Jump)
 ![Screenshot](images/walljump.png)\
 
-### Throwing Objects
+## Throwing Objects
 ![Screenshot](images/throwExample.png)\
 Press Up while contacting a berry or a seed.\
 Press Up or Jump to throw the object.\
 
-## Berries:
+# Berries:
 Berries "pop" when hit by an attack or when bumped into while riding your broom.
 
 - **Bounce Berries** force Atlas to jump even if she's in mid air- does not count as double jumping
