@@ -3,7 +3,7 @@ Collect the star at the top of the gardens. You'll need to rejuvenate two differ
 # Controls:
 
 ## Keyboard:
-| | |
+| Input | Action |
 | ----- | ----- |
 | Z | Jump |
 | X | Broom |
@@ -11,22 +11,30 @@ Collect the star at the top of the gardens. You'll need to rejuvenate two differ
 | S + Direction | Change Color Set |
 
 ## WASDMouse:
-Space - Jump\
-Shift - Broom\
-Left Click - Attack\
-Tab/E + Direction - Change Color Set
+
+| Input | Action |
+| ----- | ----- |
+| Space | Jump |
+| Shift | Broom |
+| Left Click - Attack |
+| Tab/E + Direction | Change Color Set |
 
 ## PS4:
-X - Jump\
-R1/Triangle/Circle - Broom\
-Square - Attack
-L1 + Direction - Change Color Set
+
+| Input | Action |
+| ----- | ----- |
+| X | Jump |
+| R1\Triangle\Circle | Broom |
+| Square | Attack |
+| L1 + Direction | Change Color Set |
 
 ## General Controls:
 
-Left/Right - Move\
-Down - Crouch\
-Up - Enter Door, Lift Berry/Seed, Throw held object
+| Input | Action |
+| ----- | ----- |
+| Left/Right | Move |
+| Down | Crouch |
+| Up | Enter Door\ Lift Berry/Seed\ Throw held object |
 
 # Attacking
 
