@@ -11,7 +11,7 @@ S + Direction - Change Color Set
 ## WASDMouse:
 Space - Jump\
 Shift - Broom\
-Left Click - Attack
+Left Click - Attack\
 Tab/E + Direction - Change Color Set
 
 ## PS4:
