@@ -2,31 +2,31 @@ Collect the star at the top of the gardens. You'll need to rejuvenate two differ
 
 ## Controls:
 
-#Keyboard:
+# Keyboard:
 Z - Jump\
 X - Broom\
 C - Attack\
 S + Direction - Change Color Set
 
-#WASDMouse:
+# WASDMouse:
 Space - Jump\
 Shift - Broom\
 Left Click - Attack
 Tab/E + Direction - Change Color Set
 
-#PS4:
+# PS4:
 X - Jump\
 R1/Triangle/Circle - Broom\
 Square - Attack
 L1 + Direction - Change Color Set
 
-#General Controls:
+# General Controls:
 
 Left/Right - Move\
 Down - Crouch\
 Up - Enter Door, Lift Berry/Seed, Throw held object
 
-##Attacking
+## Attacking
 
 ![Screenshot](images/attack.png)\
 
@@ -38,7 +38,7 @@ Up - Enter Door, Lift Berry/Seed, Throw held object
 
 With WASDMouse direction is determined by mouse position relative to Atlas.
 
-##Colorsets:
+## Colorsets:
 
 You can change outfit colors by holding the change-outfit key, selecting with a direction, and letting go of the change key,
 ![Screenshot](images/outfits.png)\
