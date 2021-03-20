@@ -2,52 +2,69 @@ Collect the star at the top of the gardens. You'll need to rejuvenate two differ
 
 ## Controls:
 
+#Keyboard:
 Z - Jump\
-X - Broom
+X - Broom\
+C - Attack\
+S + Direction - Change Color Set
 
-C - Attack
+#WASDMouse:
+Space - Jump\
+Shift - Broom\
+Left Click - Attack
+Tab/E + Direction - Change Color Set
 
-![Screenshot](images/attack.png)\
+#PS4:
+X - Jump\
+R1/Triangle/Circle - Broom\
+Square - Attack
+L1 + Direction - Change Color Set
 
-
-S+Direction - Change Color Set
-
-![Screenshot](images/outfits.png)\
+#General Controls:
 
 Left/Right - Move\
 Down - Crouch\
 Up - Enter Door, Lift Berry/Seed, Throw held object
+
+##Attacking
+
+![Screenshot](images/attack.png)\
+
+## Attack Mechanics:
+- Standing attack string (Attack -> Attack -> Attack)
+- uptilt/crouch attack (Attack + Up / Attack + Crouch)
+- arial attacks (Attack / Attack + Direction in air)
+- crawl (Crouch + Left/Right)
+
+With WASDMouse direction is determined by mouse position relative to Atlas.
+
+##Colorsets:
+
+You can change outfit colors by holding the change-outfit key, selecting with a direction, and letting go of the change key,
+![Screenshot](images/outfits.png)\
+
 
 ## Speed Run:
 - **Press Space to reset.**
 - Timer ends when all gems and the star are collected.
 - Current Record is 42.7 seconds
 
-## Mechanics:
-- Standing attack string (C -> C -> C)
-- uptilt/crouch attack (C+Up / C+Down)
-  - crouch attack has no hitbox yet
-- arial attacks (C / C+Direction in air)
-- crawl (Crouch + Left/Right)
+##General Mechanics
 
-**Drop through platforms**: Z while crouching\
-**Fast-fall**: down while airborne\
+**Drop through platforms**: Press Jump while crouching\
+**Fast-fall**: Down while airborne\
 
-**Cancel Broom**: X or C while on broom\
-**Jump off broom**: Z while on broom
+**Cancel Broom**: Jump, Broom, or Attack while on broom\
+**Jump off broom**: Jump while on broom (with double jump unlocked)
+
+**Double-Jump**: (Jump -> Jump)\
+**Wall-Jump**: (Press against wall in mid-air + Jump)
+![Screenshot](images/walljump.png)\
 
 ### Throwing Objects
 ![Screenshot](images/throwExample.png)\
 Press Up while contacting a berry or a seed.\
-Press Up or Z to throw the object.\
-
-
-### Cheat Mode
-Eventually in the game you will be able to unlock more abilities. Unlock them immediately by pressing Numpad *
-
-**Double-Jump**: (Z -> Z)\
-**Wall-Jump**: (Press against wall in mid-air + Z)
-![Screenshot](images/walljump.png)\
+Press Up or Jump to throw the object.\
 
 ## Berries:
 Berries "pop" when hit by an attack or when bumped into while riding your broom.
