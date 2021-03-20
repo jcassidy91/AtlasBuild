@@ -16,7 +16,7 @@ Collect the star at the top of the gardens. You'll need to rejuvenate two differ
 | ----- | ----- |
 | Space | Jump |
 | Shift | Broom |
-| Left Click - Attack |
+| Left Click | Attack |
 | Tab/E + Direction | Change Color Set |
 
 ## PS4:
@@ -24,7 +24,7 @@ Collect the star at the top of the gardens. You'll need to rejuvenate two differ
 | Input | Action |
 | ----- | ----- |
 | X | Jump |
-| R1\Triangle\Circle | Broom |
+| R1 <br/> Triangle <br/> Circle | Broom |
 | Square | Attack |
 | L1 + Direction | Change Color Set |
 
@@ -34,17 +34,22 @@ Collect the star at the top of the gardens. You'll need to rejuvenate two differ
 | ----- | ----- |
 | Left/Right | Move |
 | Down | Crouch |
-| Up | Enter Door\ Lift Berry/Seed\ Throw held object |
+| Crawl | Crouch + Left/Right|
+| Up | Enter Door <br/> Lift Berry/Seed <br/> Throw held object |
 
 # Attacking
 
 ![Screenshot](images/attack.png)\
 
 ## Attack Mechanics:
-- Standing attack string (Attack -> Attack -> Attack)
-- uptilt/crouch attack (Attack + Up / Attack + Crouch)
-- arial attacks (Attack / Attack + Direction in air)
-- crawl (Crouch + Left/Right)
+| Attack | Input|
+| --- | --- |
+| Standing attack string | Attack -> Attack -> Attack |
+| Uptilt | Attack + Up |
+| Crouch Attack | Attack + Crouch |
+| Arial Attack | (Attack / Attack + Direction in air |
+
+
 
 With WASDMouse direction is determined by mouse position relative to Atlas.
 
@@ -73,12 +78,14 @@ Press Up or Jump to throw the object.
 # Berries:
 Berries "pop" when hit by an attack or when bumped into while riding your broom.
 
-- **Bounce Berries** force Atlas to jump even if she's in mid air- does not count as double jumping
-- **Woosh Berries** force Atlas on her broom even if she's already used it. This does count as using your broom.
-- **Bomb Berries** can blow up rocks and are affected by other berries:
-   - Bombs bounce off bounce berries.
-   - Bombs are given wings and will fly forward on collision with woosh berries.
-   - Bomb berries can be picked by the player when collided against while on broom. Berries can be dropped by canceling the broom.
+| Berry Type | Color | Effect when popped |
+| --- | --- | --- |
+| Bounce Berry | Green | Forces Atlas to jump even if she's in mid air- does not count as double jumping |
+| Woosh Berry | Red | Forces Atlas on her broom even if she's already used it. Works even if Broom has already been used |
+| Bomb Berries | Blue | Can blow up rocks and are affected by other berries:
+<br />   - Bombs bounce off bounce berries.
+<br />   - Bombs are given wings and will fly forward on collision with woosh berries.
+<br />   - Bomb berries can be picked by the player when collided against while on broom. Berries can be dropped by canceling the broom |
 ![Screenshot](images/bombberry.png)\
   
 # Speed Run:
