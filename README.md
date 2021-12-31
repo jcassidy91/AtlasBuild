@@ -100,4 +100,4 @@ Berries "pop" when hit by an attack or when bumped into while riding your broom.
 - The middle door in the room before the Gardens Entrance is the speedrun area.
 - **Press Space to reset.**
 - Timer ends when all gems and the star are collected.
-- Current Record is 42.7 seconds (With double jump and wall jump active). 47 Seconds without.
+- Current Record is 41.0 seconds (With double jump and wall jump active). 45.2 Seconds without.
