@@ -73,7 +73,7 @@ You can change outfit colors by holding the change-outfit key, selecting with a 
 **Cancel Broom**: Jump, Broom, or Attack while on broom\
 **Jump off broom**: Jump while on broom (with double jump unlocked)
 
-(Upgrades can be activated by pressing numpad *)
+(Upgrades can be activated by pressing numpad *)\
 **Double-Jump**: (Jump -> Jump)\
 **Wall-Jump**: (Press against wall in mid-air + Jump)
 ![Screenshot](images/walljump.png)\
@@ -90,10 +90,7 @@ Berries "pop" when hit by an attack or when bumped into while riding your broom.
 | --- | --- | --- |
 | Bounce Berry | Green | Forces Atlas to jump even if she's in mid air- does not count as double jumping |
 | Woosh Berry | Red | Forces Atlas on her broom even if she's already used it. Works even if Broom has already been used |
-| Bomb Berries | Blue | Can blow up rocks and are affected by other berries:
-<br />   - Bombs bounce off bounce berries.
-<br />   - Bombs are given wings and will fly forward on collision with woosh berries.
-<br />   - Bomb berries can be picked by the player when collided against while on broom. Berries can be dropped by canceling the broom |
+| Bomb Berries | Blue | Can blow up rocks and are affected by other berries:<br />   - Bombs bounce off bounce berries.<br />   - Bombs are given wings and will fly forward on collision with woosh berries.<br />   - Bomb berries can be picked by the player when collided against while on broom. Berries can be dropped by canceling the broom |
 ![Screenshot](images/bombberry.png)\
   
 # Speed Run:
